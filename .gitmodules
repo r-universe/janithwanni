@@ -5,3 +5,6 @@
 [submodule "kumquat"]
 	path = kumquat
 	url = https://github.com/janithwanni/kumquat
+[submodule "sillysplines"]
+	path = sillysplines
+	url = https://github.com/janithwanni/sillysplines
